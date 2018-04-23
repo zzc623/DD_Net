@@ -1,0 +1,6 @@
+model_checkpoint_path: "DD_Net_90.ckpt"
+all_model_checkpoint_paths: "DD_Net_70.ckpt"
+all_model_checkpoint_paths: "DD_Net_75.ckpt"
+all_model_checkpoint_paths: "DD_Net_80.ckpt"
+all_model_checkpoint_paths: "DD_Net_85.ckpt"
+all_model_checkpoint_paths: "DD_Net_90.ckpt"
